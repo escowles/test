@@ -3,7 +3,7 @@ cheatsheet
 global setup
 
   ```
-  $ git config --global user.name "Your Name"
+  $ git config --global user.name "my Name"
   $ git config --global user.email your_email@foo.com
   ```
         
@@ -84,3 +84,5 @@ undoing the last commit (before it's pushed to github):
   ```
   git reset --soft HEAD~1
   ```
+
+Just another line of text.
