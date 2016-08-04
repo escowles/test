@@ -3,7 +3,7 @@ cheatsheet
 global setup
 
   ```
-  $ git config --global user.name "my Name"
+  $ git config --global user.name "her Name"
   $ git config --global user.email your_email@foo.com
   ```
         
