@@ -1,0 +1,5 @@
+{
+  "contributors": ["escowles"],
+  "message": "We require contributors to have a signed CLA on file, and we don't recognize your Github account. Please contact @escowles to submit your CLA.",
+  "recheckComment": "CLA submitted, please recheck."
+}
